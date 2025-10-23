@@ -19,10 +19,17 @@ El jugador controla un pájaro que vuela automáticamente hacia la derecha.
 
 Se os proporciona un proyecto con parte del juego realizado.  
 Vuestra tarea es que la **interfaz gráfica** se parezca a las siguientes capturas de pantalla.
-<img src="assets/captura1.png" alt="Captura de pantalla" width="%50" style="display: inline-block; margin-right: 10px;" />
-<img src="assets/captura2.png" alt="Captura de pantalla" width="%50" style="display: inline-block; margin-right: 10px;"/>
-<img src="assets/captura3.png" alt="Captura de pantalla" width="%50" style="display: inline-block; margin-right: 10px;"/>
-<img src="assets/captura4.png" alt="Captura de pantalla" width="%50" style="display: inline-block; margin-right: 10px;"/>
+
+---
+
+<table>
+  <tr>
+    <td><img src="assets/Captura1.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;" /></td>
+    <td><img src="assets/Captura2.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
+    <td><img src="assets/Captura3.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
+    <td><img src="assets/Captura4.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
+  </tr>
+</table>
 
 ---
 
