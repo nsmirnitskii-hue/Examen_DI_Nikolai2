@@ -24,10 +24,10 @@ Vuestra tarea es que la **interfaz gráfica** se parezca a las siguientes captur
 
 <table>
   <tr>
-    <td><img src="assets/Captura1.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;" /></td>
-    <td><img src="assets/Captura2.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
-    <td><img src="assets/Captura3.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
-    <td><img src="assets/Captura4.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
+    <td><img src="app/src/main/res/drawable/Captura1.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;" /></td>
+    <td><img src="app/src/main/res/drawable/Captura2.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
+    <td><img src="app/src/main/res/drawable/Captura3.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
+    <td><img src="app/src/main/res/drawable/Captura4.png" alt="Captura de pantalla" width="%15" style="display: inline-block; margin-right: %1;"/></td>
   </tr>
 </table>
 
